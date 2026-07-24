@@ -5,7 +5,7 @@ c = 0
 for sc in li:
     if sc>=cc and sc>0:
         c += 1  
-print(c)
+print(c) #pls submit
  
      
     
