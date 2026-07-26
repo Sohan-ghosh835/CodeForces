@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 6 |
+| 7 | 6 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (2)
 - [implementation](#implementation) (2)
-- [math](#math) (2)
+- [math](#math) (3)
 - [strings](#strings) (1)
 
 ---
@@ -52,6 +52,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [Python 3](https://github.com/Sohan-ghosh835/CodeForces/blob/HEAD/1/A%20-%20Theatre%20Square/solution.py) |
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/Sohan-ghosh835/CodeForces/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Python 3](https://github.com/Sohan-ghosh835/CodeForces/blob/HEAD/50/A%20-%20Domino%20piling/solution.py) |
 
